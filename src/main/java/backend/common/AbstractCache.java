@@ -9,8 +9,8 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * @PROJECT_NAME: MYDB_hqc
- * @DESCRIPTION:
+ * @PROJECT_NAME: HCDB
+ * @DESCRIPTION:所有缓存虚拟类
  * @Author hqc
  * @DATE: 2023/8/3 11:53
  */

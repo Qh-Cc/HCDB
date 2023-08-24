@@ -3,8 +3,8 @@ package backend.utils;
 import java.nio.ByteBuffer;
 
 /**
- * @PROJECT_NAME: MYDB_hqc
- * @DESCRIPTION:
+ * @PROJECT_NAME: HCDB
+ * @DESCRIPTION:共享内存数组
  * @Author hqc
  * @DATE: 2023/8/2 22:13
  */
