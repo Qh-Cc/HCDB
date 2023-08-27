@@ -13,7 +13,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * @PROJECT_NAME: HCDB
- * @DESCRIPTION:事务实现接口
+ * @DESCRIPTION:事务实现类
  * @Author Ccc
  * @DATE: 2023/8/2 21:34
  */
