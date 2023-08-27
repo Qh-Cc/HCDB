@@ -12,7 +12,7 @@ import java.util.concurrent.locks.ReentrantLock;
  * @PROJECT_NAME: HCDB
  * @DESCRIPTION:页的实现类
  * @Author Ccc
- * @DATE: 2023/8/4 11:21
+ * @DATE: 2023/8/4 11:22
  */
 public class PageImpl implements Page {
     private int pageNumber;         //页号
