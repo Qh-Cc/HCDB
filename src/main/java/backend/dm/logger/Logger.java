@@ -12,7 +12,7 @@ import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
 import common.Error;
 /**
- * @author: hqc
+ * @author: Ccc
  * @description:日志的接口
  * @date: 2023/8/4 11:21
  * @param:
