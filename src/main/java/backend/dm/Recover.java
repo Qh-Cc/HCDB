@@ -16,7 +16,7 @@ import java.util.Map.Entry;
 
 /**
  * @author: Ccc
- * @description:数据恢复类
+ * @description:通过日志恢复数据类
  * @date: 2023/8/4 11:21
  * @param:
  * @return:
