@@ -3,7 +3,7 @@ package backend.common;
 /**
  * @PROJECT_NAME: HCDB
  * @DESCRIPTION:共享内存数组
- * @Author hqc
+ * @Author Ccc
  * @DATE: 2023/8/3 11:53
  */
 public class SubArray {
