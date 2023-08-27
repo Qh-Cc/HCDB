@@ -12,7 +12,7 @@ import java.nio.channels.FileChannel;
 /**
  * @PROJECT_NAME: HCDB
  * @DESCRIPTION:事务接口
- * @Author hqc
+ * @Author Ccc
  * @DATE: 2023/8/2 21:32
  */
 public interface TransactionManager {
