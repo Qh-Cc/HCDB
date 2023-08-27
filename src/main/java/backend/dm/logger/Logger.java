@@ -13,7 +13,7 @@ import java.nio.channels.FileChannel;
 import common.Error;
 /**
  * @author: Ccc
- * @description:日志的接口
+ * @description:日志接口
  * @date: 2023/8/4 11:21
  * @param:
  * @return:
