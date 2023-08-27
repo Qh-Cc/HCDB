@@ -16,7 +16,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * @PROJECT_NAME: HCDB
- * @DESCRIPTION:数据库文件,里面装着很多的页,PageNumber是这个数据库文件里页的总数
+ * @DESCRIPTION:页面缓存实现类
  * @Author Ccc
  * @DATE: 2023/8/4 11:45
  */
