@@ -11,7 +11,7 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  * @PROJECT_NAME: HCDB
  * @DESCRIPTION:页的实现类
- * @Author hqc
+ * @Author Ccc
  * @DATE: 2023/8/4 11:21
  */
 public class PageImpl implements Page {
