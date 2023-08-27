@@ -5,7 +5,7 @@ import java.nio.ByteBuffer;
 /**
  * @PROJECT_NAME: HCDB
  * @DESCRIPTION:共享内存数组
- * @Author hqc
+ * @Author Ccc
  * @DATE: 2023/8/2 22:13
  */
 public class Parser {
