@@ -11,7 +11,7 @@ import java.nio.channels.FileChannel;
 
 /**
  * @PROJECT_NAME: HCDB
- * @DESCRIPTION:事务接口
+ * @DESCRIPTION:事务的接口
  * @Author Ccc
  * @DATE: 2023/8/2 21:32
  */
