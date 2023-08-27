@@ -10,7 +10,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * @PROJECT_NAME: HCDB
- * @DESCRIPTION:所有缓存虚拟类
+ * @DESCRIPTION:缓存虚拟类
  * @Author Ccc
  * @DATE: 2023/8/3 11:53
  */
