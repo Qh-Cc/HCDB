@@ -19,7 +19,7 @@ import java.util.concurrent.locks.ReentrantLock;
  */
 public class TransactionManagerImpl implements TransactionManager {
 
-    //先定义一些必要的常量:
+    //先定义一些必要的常量
     //XID文件头长度
     static final int LEN_XID_HEADER_LENGTH = 8;
     //每个事务的占用长度
