@@ -16,8 +16,8 @@ import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * @PROJECT_NAME: HCDB
- * @DESCRIPTION:在我现在的理解,是数据库文件,里面装着很多的页,PageNumber是这个数据库文件里页的总数
- * @Author hqc
+ * @DESCRIPTION:数据库文件,里面装着很多的页,PageNumber是这个数据库文件里页的总数
+ * @Author Ccc
  * @DATE: 2023/8/4 11:45
  */
 public class PageCacheImpl extends AbstractCache<Page> implements PageCache {
@@ -135,7 +135,6 @@ public class PageCacheImpl extends AbstractCache<Page> implements PageCache {
     public void truncateByBgno(int maxPgno) {
 
     }
-
 
     @Override
     public void flushPage(Page pg) {
