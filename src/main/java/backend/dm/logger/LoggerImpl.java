@@ -190,7 +190,7 @@ public class LoggerImpl implements Logger {
             return null;
         }
         //开辟一个4+4+data.size的空间,读取checkSum和data,因为read完后,position已经变成8了
-        //TODO 这里好像多读了四个字节?以后调试我再看看
+
         ByteBuffer buf = ByteBuffer.allocate(OF_DATA + size);
         try {
             fc.position(position);
