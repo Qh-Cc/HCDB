@@ -4,7 +4,7 @@ import java.nio.ByteBuffer;
 
 /**
  * @PROJECT_NAME: HCDB
- * @DESCRIPTION:共享内存数组
+ * @DESCRIPTION:类型解析类
  * @Author Ccc
  * @DATE: 2023/8/2 22:13
  */
